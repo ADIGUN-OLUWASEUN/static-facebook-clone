@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header1{
+    text-align:center;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    font-size:20px;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.sidenav{
+    background-color:blanchedalmond;
+    text-align: left;
+    nav-left: auto;
+}
+.sidenav    .bodyn  .bodyprof{
+    color: blue;
+    font-size:20px;
+    font-weight:bold;
+}
+.sidenav    .bodyn  .bodyenme{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodyenme:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+.sidenav    .bodyn  .bodypg{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sidenav    .bodyn  .bodypgc{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodypgc:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+.sidenav    .bodyn  .bodygp{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sidenav    .bodyn  .bodygpc{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodygpc:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+.sidenav    .bodyn  .bodya{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sidenav    .bodyn  .bodyac{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodyac:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+.sidenav    .bodyn  .bodyf{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sidenav    .bodyn  .bodyfc{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodyfc:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+.sidenav    .bodyn  .bodyi{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sidenav    .bodyn  .bodyic{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodyic:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+.sidenav    .bodyn  .bodye{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sidenav    .bodyn  .bodyec{
+    font-size: 15px;
+    color: blueviolet;
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sidenav    .bodyn  .bodyec:hover{
+    border: px solid white;
+    background: white;
+    transition: 1s;
+}
+
+.post{
+    color: blue;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
